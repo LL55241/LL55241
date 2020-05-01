@@ -1,4 +1,4 @@
-## Welcome to 廖廖的个人网站 Pages
+## 欢迎来到廖廖的个人网站 
 
 You can use the [editor on GitHub](https://github.com/LL55241/LL55241/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
